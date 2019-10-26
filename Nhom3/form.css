@@ -1,0 +1,126 @@
+.index{
+	width: 100%;
+	height: 2000px;
+	background-color: skyblue;
+	display: flex;
+}
+.index .box1{
+	width: 100%;
+	height: 800px;
+	background-image: url(https://blog.spoongraphics.co.uk/wp-content/uploads/2012/cosmic-shards/dark-abstract-shards-design.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 800px;
+}
+.index .box1 .logo{
+	width: 90%;
+	height: 100px;
+	margin-left: 5%;
+	margin-top: 3rem;
+}
+.index .box1 .logo img{
+	float: left;
+	width: 100px;
+	height: 100px;	
+}
+.index .box1 .logo h1{
+	color: white;
+	font-size: 80px;
+}
+.index .box1 .logo h2{
+	display: block;
+	position: absolute;
+	left: 24.5%;
+	top: -0.5%;
+	font-size: 80px;
+  	background: -webkit-linear-gradient(#00a9d4,#9e0258);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.index .box1 .logo .menu{
+	position: absolute;
+	left: 34.5%;
+	top: 8.7%;
+	width: 60%;
+	height: 100px;
+}
+.index .box1 .logo .menu ul{
+	list-style: none;
+
+}
+.index .box1 .logo .menu ul li{
+	float: left;
+	margin-left: 2rem;
+	margin-top: 1.5rem;
+}
+.index .box1 .logo .menu ul li a{
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	font-family:  Helvetica, Arial, sans-serif;
+}
+.index .box1 .logo .menu ul li a:hover{
+	background: -webkit-linear-gradient(#00a9d4,#9e0258);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.index .box1 h3{
+	color: white;
+	font-size: 80px;
+	margin-left: 4rem;
+}
+.index .box1 h4{
+	position: absolute;
+	left: 1%;
+	top: 55%;
+	color: white;
+	margin-left: 4rem;
+	font-size: 40px;
+}
+.index .box1 .click1{
+	text-decoration: none;
+	float: left;	
+	margin-left: 5%;
+	background-color: #06132e;
+	width: 270px;
+	height: 60px;
+	border-radius: 20px;
+}
+.index .box1 .click2{
+	float: left;
+	margin-left: 5rem;
+	background-color:#06132e;
+	width: 270px;
+	height: 60px;
+	text-decoration: none;
+	border-radius: 20px;
+}
+.index .box1 .click1 h5{
+	float: left;
+	margin-left: 1rem;
+	margin-top: 1rem;
+	font-size: 17px;
+	background: -webkit-linear-gradient(#00a9d4,#9e0258);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.index .box1 .click1 h6{
+	margin-left: 1rem;
+	margin-top: 1rem;
+	font-size: 17px;
+	color: white;
+}
+.index .box1 .click2 h5{
+	float: left;
+	margin-left: 1rem;
+	margin-top: 1rem;
+	font-size: 17px;
+	background: -webkit-linear-gradient(#00a9d4,#9e0258);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.index .box1 .click2 h6{
+	margin-left: 1rem;
+	margin-top: 1rem;
+	font-size: 17px;
+	color: white;
+}
