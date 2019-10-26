@@ -1,0 +1,113 @@
+.background{
+	width: 100%;
+	height: 600px;
+}
+.Mon{
+	width: 80%;
+	height: 200px;
+	background: linear-gradient(to right, #CC3366, #000066);
+	margin: 0 auto;
+	padding: 1px;
+}
+.Mon h2{
+	text-align: center;
+	color: white;
+	font-size: 35px;
+	margin-bottom: 20px;
+}
+.Mon h4{
+	text-align: center;
+	color: white;
+	font-size: 28px;
+	margin-top: 20px;
+}
+.box{
+	position: absolute;
+	left: 44%;
+	top: 23%;
+	width: 200px;
+	height: 45px;
+	background: #000055;
+	border-radius: 20px;
+}
+a .box{
+	position: absolute;
+	text-align: center;
+	text-decoration: none;
+	font-family: fantasy;
+	color: white;
+	font-size: 16px;
+}
+.box:hover{
+	background: linear-gradient(to right, #fc00ff, #00dbde);
+}
+a:hover .box{
+	background: linear-gradient(to right, #fc00ff, #00dbde);
+	color: #993300;
+}
+.menu{
+	width: 80%;
+	height: 180px;
+	margin: 0 auto;
+}
+.menu h2{
+	text-align: center;
+	color: #000066;
+	font-size: 35px;
+	margin-bottom: 20px;
+}
+.menu li{
+	float: left;
+	display: block;
+	text-align: center;
+}
+.menu li:hover > a{
+	color: #000066;
+	border-left: 1px solid white;
+}
+.menu li a{
+	display: block;
+	text-decoration: none;
+	height: 40px;
+	line-height: 50px;
+	padding: 0 30px;
+	margin: 4px 0;
+	color: #6633FF;
+	font-weight: bold;
+}
+.menu ul li a {
+	text-decoration: none;
+	display: block;
+	width: 80%;
+	height: 100px;
+	line-height: 60px;
+	text-align: center;
+	font-size: 1.1rem;
+}
+.khung {
+	width: 80%;
+	height: 300px;
+	margin-left: 230px;
+}
+.khungduoi{
+	float: left;
+	width: 16%;
+	height: 250px;
+	background: linear-gradient(to right, #CC3366, #000066);
+	margin-left: 30px;
+}
+.khungduoi img{
+	float: left;
+	width: 100%;
+	height: 200px;
+
+}
+.khungduoi p{
+	color: white;
+	margin-left: 9px;
+	font-size: 14px;
+}
+.background content a{
+	margin-left: 44%; 
+}
+
